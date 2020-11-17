@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### 😄 Be a common Octopus cat.
 <!--
 **TGY-forture/TGY-forture** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
